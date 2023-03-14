@@ -1,0 +1,14 @@
+#heading
+{
+    width: 100%;
+    height: 97px;
+    text-align: left;    
+}
+
+
+#instructions
+{
+    float: right;
+    border: 1px solid white;
+
+}
